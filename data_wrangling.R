@@ -48,15 +48,6 @@ dt[ratings] %<>%
   lapply(factor) %T>%
   {sapply(., class) %>% print()}
 
-dt %>% 
-  ggplot(aes(x = ))
-
-
-
-
-
-
-
 
 
 

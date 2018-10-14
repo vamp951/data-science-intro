@@ -7,7 +7,6 @@
  *  - Run this script from inside Postgres
  */
  
-/* tested with loaddir '/Users/gordonlinoff/Desktop/gordon/DM-SQL-v2/data' */
 
 CREATE TABLE Calendar (
 	Date date NOT NULL,
